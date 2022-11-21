@@ -1,0 +1,1792 @@
+#
+# Results on Tuesday May 03 2022 12:16:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1651575706986,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1651575711036,1
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1651580094755,7
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1651580097036,0
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1651580098898,0
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1651580101419,1
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1651580103883,2
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1651580113266,3
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1651580116554,0
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1651580120187,2
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1651580125419,2
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1651580132223,0
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1651580135479,1
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,EnterReturn,10,1651580141303,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1651580166815,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,101_1,1651580166821,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1651580166821,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1651580166822,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1651580166822,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1651580166822,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1651580166822,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,10%0A ,1651580166823,NULL
+1651580167,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1651580166823,NULL
+#
+# Results on Friday May 06 2022 15:42:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1651847045595,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1651847048684,1
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,age,Selected,20,1651851044555,2
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1651851047313,0
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1651851049449,0
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1651851053963,1
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1651851057961,2
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1651851104410,0
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1651851110634,3
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1651851129963,1
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1651851137083,2
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1651851152159,6
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1651851156119,1
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,EnterReturn,100,1651851652983,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,EnterReturn,100%0A,1651851653014,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1651851737759,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,102_2,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,60,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100%0A%0A ,1651851737766,NULL
+1651851738,86ea0143ce7b72c5d04b8f6c65b22440,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1651851737767,NULL
+#
+# Results on Tuesday May 10 2022 13:20:10 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1652184257432,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1652184407569,1
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,29,1652188703725,11
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1652188705221,0
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1652188706468,0
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1652188709020,1
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1652188712236,3
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1652188729884,3
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1652188736452,0
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1652188744925,3
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1652188747993,Shift
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1652188756540,1
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1652188763609,3
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1652188769537,9
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1652188810570,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,103_3,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Berlinerisch,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,35,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,99,1652188810576,NULL
+1652188811,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1652188810577,NULL
+#
+# Results on Wednesday May 11 2022 15:26:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1652278616839,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1652278621828,1
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1652282292990,5
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1652282295412,0
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1652282298020,0
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1652282300852,1
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1652282306204,2
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1652282319924,3
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1652282322884,0
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1652282334780,6
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1652282338921,Shift
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1652282345589,1
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1652282357025,8
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1652282363073,9
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1652282788132,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,104_4,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Fränkisch,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,75,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1652282788141,NULL
+1652282788,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1652282788142,NULL
+#
+# Results on Thursday May 12 2022 12:26:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1652354211126,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1652354227687,1
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,24,1652358301695,6
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1652358304063,0
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1652358305895,0
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1652358310007,1
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1652358312775,3
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1652358326335,3
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1652358330062,0
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,A. Dialekt,1652358334367,0
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1652358338091,Shift
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1652358359687,1
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1652358365803,3
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1652358373948,9
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1652358379043,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,105_5,1652358379050,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1652358379050,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1652358379050,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Sächsisch (Süd-Sachsen-Anhalt),1652358379050,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1652358379051,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,30,1652358379051,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1652358379051,NULL
+1652358379,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1652358379052,NULL
+#
+# Results on Monday May 16 2022 13:14:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1652702093121,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1652702115815,1
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,24,1652706292775,6
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1652706295824,0
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1652706297560,0
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1652706301185,1
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1652706304696,3
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1652706338985,3
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1652706341633,0
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1652706357061,Shift
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1652706371594,6
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,First,,1652706401261,Shift
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1652706415253,7
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,D. Alle,1652706423136,3
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1652706427989,1
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1652706844360,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,106_6,1652706844367,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1652706844367,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1652706844367,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Fränkisch,1652706844367,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,Fränkisch,1652706844368,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,70,1652706844368,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1652706844368,NULL
+1652706845,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1652706844368,NULL
+#
+# Results on Monday May 16 2022 14:48:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1652706851703,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1652706854632,1
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1652712363690,7
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1652712366536,1
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1652712368104,0
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1652712372201,1
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1652712375641,3
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1652712415873,6
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1652712424705,0
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1652712438449,4
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1652712446249,2
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1652712453301,1
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1652712476309,0
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1652712486590,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,107_7,1652712486595,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0 ,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1652712486596,NULL
+1652712487,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1652712486596,NULL
+#
+# Results on Friday May 20 2022 09:16:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653034848936,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653034852899,1
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1653038088181,5
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653038090283,0
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653038091955,0
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653038095011,1
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1653038099099,2
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,E,1653038110995,4
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653038117081,0
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1653038124953,1
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1653038134692,1
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653038139280,-
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653038144504,8
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653038164216,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,108_8,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,80,1653038164222,NULL
+1653038164,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653038164223,NULL
+#
+# Results on Monday May 23 2022 11:25:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653300691811,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653300744696,1
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1653304931207,7
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1653304934166,1
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653304936798,0
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653304943767,1
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1653304959118,2
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,E,1653305002231,4
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653305006455,0
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1653305020832,6
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1653305032331,Shift
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1653305060055,1
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653305079987,4
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653305092267,9
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653305127220,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,109_1,1653305127226,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Allgäurisch/Bayrisch,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,45,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95 ,1653305127227,NULL
+1653305128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653305127227,NULL
+#
+# Results on Tuesday May 24 2022 10:59:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653385513107,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653385556747,1
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,28,1653389814093,10
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653389815788,0
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653389817507,0
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653389820228,1
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1653389823220,3
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1653389871404,3
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653389875820,0
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1653389889357,4
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1653389898532,4
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653389911185,0
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653389935161,1
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653389994970,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,110_2,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,80,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1653389994976,NULL
+1653389995,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653389994977,NULL
+#
+# Results on Tuesday May 24 2022 12:35:56 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653391302112,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653391305632,1
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,26,1653395472546,8
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653395475336,0
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653395477385,0
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653395483657,1
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1653395487792,3
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,F,1653395544649,5
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653395570465,0
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1653395699835,4
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1653395707787,4
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653395726424,3
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653395736856,1
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653395756416,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,111_3,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,30,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1653395756422,NULL
+1653395757,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653395756423,NULL
+#
+# Results on Friday May 27 2022 07:50:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653633687935,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653634322675,1
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,20,1653637697365,2
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653637698957,0
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653637701459,0
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653637705058,1
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1653637708891,2
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1653637722507,3
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653637733592,0
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1653637739099,1
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1653637745379,1
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653637750528,0
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653637754719,1
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653637804553,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,112_4,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100 ,1653637804559,NULL
+1653637805,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653637804560,NULL
+#
+# Results on Friday May 27 2022 11:58:21 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653638406897,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653638413463,1
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,27,1653652578147,9
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1653652579995,1
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653652581539,0
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653652583594,1
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1653652585963,3
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1653652607971,6
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653652612219,0
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1653652625428,3
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1653652636568,Shift
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1653652662419,1
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653652674560,9
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653652677648,1
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653652701240,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,113_5,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Berlinerisch/Märkisch,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,90,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1653652701247,NULL
+1653652701,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653652701247,NULL
+#
+# Results on Monday May 30 2022 10:56:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653904383850,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653904570806,1
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,21,1653908073195,3
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653908075329,0
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653908076977,0
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653908081992,1
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1653908092249,2
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,H,1653908114746,7
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653908122618,0
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1653908134130,1
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1653908140714,1
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653908153166,9
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653908186470,-
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653908192238,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,114_6,1653908192245,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653908192245,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653908192245,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653908192246,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653908192246,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,-,1653908192246,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,90,1653908192246,NULL
+1653908192,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653908192246,NULL
+#
+# Results on Tuesday May 31 2022 11:05:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1653990217809,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1653990225333,1
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,26,1653994945335,8
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1653994946926,0
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1653994948438,0
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1653994952126,1
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1653994962270,2
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1653995011342,0
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1653995019534,6
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1653995041567,4
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1653995058662,4
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1653995099988,8
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1653995118708,-
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1653995127916,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,115_7,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,-,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,88,1653995127922,NULL
+1653995128,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1653995127923,NULL
+#
+# Results on Tuesday May 31 2022 14:54:35 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654003561423,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654004200652,1
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1654008735732,5
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654008737803,0
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654008739882,0
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654008742835,1
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654008751179,2
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1654008784315,2
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654008787250,0
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1654008810516,2
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1654008836419,2
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654008850848,0
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654008851951,0
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,EnterReturn,0,1654008871785,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654008874464,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,116_8,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1654008874471,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,0%0A,1654008874472,NULL
+1654008875,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654008874472,NULL
+#
+# Results on Wednesday June 01 2022 09:17:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654071171905,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654071500509,1
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,age,Selected,21,1654074960077,3
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654074962268,0
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654074963859,0
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654074966859,1
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654074970027,2
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1654074986572,6
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654074989764,0
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1654075024652,1
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1654075031211,6
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1654075033200,Shift
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654075040840,1
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654075044673,1
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654075060696,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,117_1,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Berlinerisch,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,100,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654075060703,NULL
+1654075061,b9503be6cb0018a5d5ba910cf2a098f8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654075060704,NULL
+#
+# Results on Wednesday June 01 2022 12:50:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654082709906,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654083303275,1
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1654087744427,7
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1654087746026,1
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654087748274,0
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654087751010,1
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654087758483,2
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,F,1654087797899,5
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654087800706,0
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1654087807259,1
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1654087812499,1
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654087821087,Shift
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654087854304,9
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654087857512,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,118_2,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,Berlinerisch - 75,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1654087857519,NULL
+1654087858,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654087857520,NULL
+#
+# Results on Thursday June 02 2022 09:28:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654158175204,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654158181984,1
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1654161564135,7
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654161570169,0
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654161572481,0
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654161576866,1
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654161580889,2
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1654161586825,3
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654161590841,0
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1654161602491,4
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1654161607226,4
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654161613134,0
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654161624807,9
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654162128333,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,119_3,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,90 ,1654162128338,NULL
+1654162129,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654162128339,NULL
+#
+# Results on Thursday June 02 2022 11:05:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654162186879,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654162194685,1
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1654166986115,4
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654166988202,0
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654166989883,0
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654166993339,1
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654167000907,2
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,E,1654167043107,4
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654167045571,0
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,A. Dialekt,1654167052995,0
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1654167061504,s
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1654167095885,2
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654167106561,9
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654167117649,9
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654167904816,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,120_4,1654167904824,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654167904824,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654167904824,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,sächsisch%2C hallenser Dialekt,1654167904824,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654167904825,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,96,1654167904825,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,99,1654167904825,NULL
+1654167905,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654167904825,NULL
+#
+# Results on Friday June 03 2022 07:51:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654238789440,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654238817677,1
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1654242506775,7
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1654242509742,1
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654242511390,0
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654242516422,1
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Sonstige,1654242541830,7
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,First,,1654242544147,Shift
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,E,1654242590118,4
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654242593854,0
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,A. Dialekt,1654242618879,0
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1654242625299,Shift
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1654242665255,1
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654242686485,Shift
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654242704628,Shift
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654242712837,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,123_7,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,Staatlich geprüfter Techniker (BaWü),1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Meine Eltern sprechen hessisch%2C ich kann es aber nicht%2C da in Baden aufgewachsen.,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,Sprechen 3%2C Verstehen 7,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,Sprechen 8%2C Verstehen 10,1654242712843,NULL
+1654242713,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654242712844,NULL
+#
+# Results on Friday June 03 2022 10:01:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654250259595,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654250275869,1
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1654250281703,5
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654250284740,0
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654250286360,0
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654250292390,1
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Ausbildung,1654250303936,6
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,H,1654250343200,7
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654250354897,0
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1654250367690,3
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1654250370734,Shift
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1654250385668,4
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654250415672,Shift
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654250458627,1
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654250462252,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654250462265,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Kölsch%2C Plattdeutsch,1654250462265,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654250462265,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654250462265,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,121_5,1654250462265,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654250462266,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,Kommt auf den Dialekt an! Plattdeutsch und Kölsch kann ich beides eher gut verstehen (80) als sprechen (20),1654250462266,NULL
+1654250463,cd160398b46376fdbf9b601e78c74cc8,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654250462268,NULL
+#
+# Results on Friday June 03 2022 14:18:36 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 22
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654261412875,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654261415622,2
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1654265835821,5
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1654265838125,1
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654265839909,0
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654265842149,1
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654265844230,2
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654265862741,0
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1654265865837,3
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1654265875614,4
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1654265878669,4
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654265895018,9
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,EnterReturn,95,1654265900794,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654265911186,0
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654265916650,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,124_8,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1654265916656,NULL
+1654265917,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654265916657,NULL
+#
+# Results on Monday June 06 2022 17:48:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+# Design number was non-random = 23
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654537663813,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,122_6,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654537667446,Meta
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Anhaltisch,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1654537693377,CapsLock
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,98,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654537702535,9
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95  ,1654537712182,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654537706679,9
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1654537671419,4
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654537673418,0
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654537674869,0
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654537676767,1
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654537678406,2
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,H,1654537683483,7
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654537687336,0
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1654537691000,6
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1654537700032,2
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654537712171,NULL
+1654537712,99ce735ca0d35e2d77d83be263c8853a,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654537712183,NULL
+#
+# Results on Tuesday June 07 2022 09:03:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 24
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654589230527,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654589308272,1
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,26,1654592501091,8
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654592502842,0
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654592504451,0
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654592507098,1
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1654592511683,3
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1654592542315,6
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654592544867,0
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1654592555411,4
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1654592564995,4
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654592571816,1
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654592591560,0
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654592597432,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,125_1,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1654592597438,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654592597439,NULL
+1654592598,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654592597439,NULL
+#
+# Results on Tuesday June 07 2022 15:16:36 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654611215866,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654611304068,1
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,26,1654614908487,8
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654614911182,0
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654614912790,0
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654614915925,1
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1654614919759,3
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,A,1654614946702,0
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654614950358,0
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1654614965063,4
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1654614969927,2
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654614978931,1
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654614983538,1
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654614995843,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,126_2,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,10,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654614995850,NULL
+1654614996,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654614995851,NULL
+#
+# Results on Friday June 10 2022 08:00:56 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 26
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654842587339,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654843008566,1
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,24,1654847921971,6
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654847923536,0
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654847925032,0
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654847927632,1
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1654847930040,3
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1654847961041,2
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654847976536,0
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1654847994849,1
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1654848003081,1
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654848016895,4
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654848033751,1
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654848056575,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,127_3,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,43,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654848056581,NULL
+1654848057,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654848056582,NULL
+#
+# Results on Friday June 10 2022 15:53:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 27
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1654871304770,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1654871308179,1
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1654876290064,4
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1654876292623,0
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1654876294534,0
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1654876298630,1
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1654876302695,2
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1654876325095,3
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1654876328446,0
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1654876332312,2
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1654876338295,2
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1654876346404,1
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1654876381596,0
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1654876387413,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,128_4,1654876387419,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1654876387419,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1654876387419,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1654876387419,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1654876387420,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1654876387420,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1654876387420,NULL
+1654876388,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1654876387420,NULL
+#
+# Results on Tuesday June 14 2022 10:03:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 28
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1655196742663,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1655196954879,1
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,24,1655200924614,6
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1655200926981,0
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1655200928788,0
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1655200935284,1
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1655200938949,3
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1655200960597,2
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1655200963717,0
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1655200968589,2
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1655200973772,2
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1655200983369,1
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1655201002034,0
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1655201014506,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,129_5,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0 ,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1655201014512,NULL
+1655201015,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1655201014512,NULL
+#
+# Results on Tuesday June 14 2022 11:56:37 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1655203891456,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1655204043900,1
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1655207630964,4
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1655207633099,1
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1655207634938,0
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1655207651875,1
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1655207666795,2
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1655207714787,3
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1655207718642,0
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1655207740387,4
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1655207757562,2
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1655207767151,2
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1655207779920,9
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1655207797823,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,130_6,1655207797829,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,20,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1655207797830,NULL
+1655207798,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1655207797831,NULL
+#
+# Results on Friday June 17 2022 08:01:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1655446416350,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1655446419943,1
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,28,1655452649856,10
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1655452652023,0
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1655452653607,0
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1655452656063,1
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Master,1655452659895,4
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1655452700991,2
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1655452704007,0
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1655452793517,-
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1655452799124,1
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1655452827676,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1655452854816,2
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1655452870344,2
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1655452872077,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,131_7,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,-,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100 ,1655452872082,NULL
+1655452872,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1655452872083,NULL
+#
+# Results on Wednesday June 22 2022 12:02:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 31
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1655894722305,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1655894726022,1
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,24,1655899124893,6
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1655899127964,0
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1655899130420,0
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1655899135716,1
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Bachelor,1655899148277,3
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,E,1655899242428,4
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1655899248077,0
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1655899287805,4
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1655899300021,4
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1655899310833,9
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1655899315826,1
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1655899347938,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,131_7,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,90 ,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1655899347944,NULL
+1655899348,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1655899347945,NULL
+#
+# Results on Friday June 24 2022 11:01:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1656063329852,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1656063333514,1
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1656068300572,4
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1656068302842,0
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1656068304939,0
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1656068308204,1
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1656068315491,2
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1656068358045,3
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1656068362389,0
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1656068425393,4
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1656068439113,2
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1656068452501,9
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1656068479407,0
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1656068485198,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,133_1,1656068485205,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1656068485205,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1656068485205,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1656068485205,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1656068485206,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1656068485206,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,99,1656068485206,NULL
+1656068485,af24790f2c3d3225efbe3f142690cf51,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1656068485206,NULL
+#
+# Results on Tuesday July 12 2022 09:58:13 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1657616155805,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1657616158861,1
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,age,Selected,21,1657619807286,3
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1657619808781,0
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1657619810462,0
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1657619812781,1
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1657619815878,2
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1657619840990,3
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1657619844637,0
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,language,Selected,C. Gepflegtes Hochdeutsch,1657619850350,2
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1657619854510,2
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1657619866891,0
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1657619876882,9
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1657619893259,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,134_2,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,90 ,1657619893264,NULL
+1657619893,7414454f3f783c8aac39b0d0d4eafbe2,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1657619893265,NULL
+#
+# Results on Tuesday September 27 2022 10:23:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1664269944274,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1664270227362,2
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1664274112775,7
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1664274114446,1
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1664274115638,0
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1664274118102,1
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1664274121911,2
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1664274131742,2
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1664274134783,0
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1664274150999,3
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1664274157943,4
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1664274164995,7
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1664274168212,1
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1664274185948,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,214_6,1664274185953,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1664274185953,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1664274185953,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1664274185953,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1664274185953,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,70,1664274185954,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1664274185954,NULL
+1664274188,ef37de10771061b3394869f8764e8d9d,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1664274185955,NULL
+#
+# Results on Wednesday September 28 2022 11:18:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1664359961744,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1664359964552,2
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,27,1664363819618,9
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1664363821913,0
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1664363823529,0
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1664363825945,1
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Master,1664363828402,4
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1664363855545,3
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1664363860785,0
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,E. B und C,1664363874330,4
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,E. B und C,1664363882529,4
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1664363893574,1
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1664363911822,0
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1664363918430,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,215_7,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,0,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1664363918436,NULL
+1664363919,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1664363918437,NULL
+#
+# Results on Tuesday October 11 2022 10:14:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1665479554774,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1665479559575,2
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1665483106234,5
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1665483108561,0
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1665483112009,0
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1665483115552,1
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Ausbildung,1665483139376,6
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,F,1665483164568,5
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1665483168361,0
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,F. A und C,1665483178688,5
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1665483183789,Shift
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,C. Gepflegtes Hochdeutsch,1665483190721,2
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1665483199885,1
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1665483204510,5
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1665483248142,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,216_8,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Sächsisch,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,50,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1665483248148,NULL
+1665483248,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1665483248149,NULL
+#
+# Results on Wednesday October 19 2022 08:46:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1666165404986,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1666165408094,2
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,20,1666169081320,2
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1666169083480,0
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1666169085151,0
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1666169087935,1
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1666169092927,2
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1666169117272,3
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1666169125191,0
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,A. Dialekt,1666169135632,0
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1666169146149,Shift
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1666169167296,1
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1666169180349,4
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1666169185749,9
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1666169205188,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,217_1,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Bayrisch,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,40,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,90,1666169205194,NULL
+1666169206,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1666169205195,NULL
+#
+# Results on Wednesday October 19 2022 12:39:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1666178796553,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1666178799544,2
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,23,1666182985458,5
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1666182987084,0
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1666182989556,0
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1666182991869,1
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1666182995621,2
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1666183051021,3
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1666183055125,0
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,F. A und C,1666183097150,5
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1666183103419,Shift
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,F. A und C,1666183113318,5
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,First,,1666183116682,Shift
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1666183130243,8
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1666183135731,9
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1666183154187,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,218_2,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Berlinern,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,Berlinern,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,80,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,100,1666183154194,NULL
+1666183155,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1666183154195,NULL
+#
+# Results on Monday October 24 2022 13:27:44 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1666613553431,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1666613662387,2
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,21,1666617960072,3
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1666617961959,1
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1666617964197,0
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1666617967431,1
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1666617972199,2
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,D,1666617999503,3
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1666618002511,0
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,B. Umgangssprache,1666618020200,1
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1666618025615,1
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1666618034165,7
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1666618037909,1
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1666618064133,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,219_3,1666618064139,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1666618064139,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1666618064139,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,,1666618064139,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1666618064139,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,70,1666618064140,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,95,1666618064140,NULL
+1666618065,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1666618064140,NULL
+#
+# Results on Monday October 24 2022 15:09:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1666618443229,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1666618445848,2
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,age,Selected,25,1666623842113,7
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,sex,Selected,M&auml;nnlich,1666623844440,1
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1666623846672,0
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1666623850320,1
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1666623855800,2
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1666623887368,6
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1666623890312,0
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1666623904877,Shift
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,B. Umgangssprache,1666623925521,1
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1666623936286,8
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1666623941257,3
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1666623950190,6
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1666624172712,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,220_4,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Thüringisch,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,80,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,65,1666624172718,NULL
+1666624173,842dbe0c342dcf281e95407af0e8d527,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1666624172719,NULL
+#
+# Results on Monday November 14 2022 15:10:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1668435211870,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1668435502238,2
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,age,Selected,22,1668438478619,4
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1668438480233,0
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1668438482217,0
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1668438485113,1
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1668438490529,2
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,G,1668438517938,6
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1668438521778,0
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,language,Selected,G. A und B,1668438541826,6
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1668438552775,s
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,D. Alle,1668438572386,3
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,current_dialekt,First,,1668438577110,h
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1668438603055,s
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,dial_comp,EnterReturn,sprechen: 80,1668438610256,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1668438625663,s
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1668438656840,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,226_2,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,schwäbisch,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,hochdeutsch und schwäbisch,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,sprechen: 85%2C verstehen: 97,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,sprechen: 90%2C verstehen: 97,1668438656846,NULL
+1668438657,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1668438656847,NULL
+#
+# Results on Wednesday November 16 2022 10:15:00 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1668589959737,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,VP_ID,First,,1668593508168,2
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,age,Selected,21,1668593524867,3
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,sex,Selected,Weiblich,1668593526378,0
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,german,Selected,Ja,1668593527594,0
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,bilingual,Selected,Nein,1668593530498,1
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,abschluss,Selected,Abitur oder gleichwertiger Abschluss,1668593536506,2
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,degeboren,Selected,Ja,1668593568146,0
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,leiter,Selected,C,1668593572578,2
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,language,Selected,D. Alle,1668593643698,3
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,DropDown,current_dial,Selected,D. Alle,1668593645083,3
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,native_dialekt,First,,1668593648192,Shift
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,current_dialekt,First,,1668593666816,Shift
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,hoch_comp,First,,1668593690408,8
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,dial_comp,First,,1668593697504,7
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,Button,continue,Click,Click,1668593700464,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,VP_ID,Final,227_3,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,bilingualinput,Final,,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,abschlussinput,Final,,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,native_dialekt,Final,Norddeutsch%2C Mecklemburger Platt,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,current_dialekt,Final,Norddeutsch%2C Mecklemburger Platt,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,dial_comp,Final,70,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,TextInput,hoch_comp,Final,89,1668593700470,NULL
+1668593701,7f7ab8cb90be91b6a2f5508ab2c9faf5,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1668593700471,NULL
